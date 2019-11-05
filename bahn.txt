@@ -1,0 +1,327 @@
+U Adenauerplatz
+U Afrikanische Straße
+U Alt-Mariendorf
+U Alt-Tegel
+U Alt-Tempelhof
+U Altstadt Spandau
+U Amrumer Straße
+U Augsburger Straße
+U Bernauer Straße
+U Biesdorf-Süd
+U Birkenstraße
+U Blaschkoallee
+U Blissestraße
+U Boddinstraße
+U Borsigwerke
+U Breitenbachplatz
+U Brandenburger Tor
+U Britz-Süd
+U Bülowstraße
+U Bundestag
+U Bundesplatz
+U Cottbusser Platz
+U Dahlem-Dorf
+U Deutsche Oper
+U Eberswalder Straße
+U Eisenacher Straße
+U Elsterwerdaer Platz
+U Ernst-Reuter-Platz
+U Frankfurter Allee
+U Frankfurter Tor
+U Franz-Neumann-Platz
+U Französische Straße
+U Friedrichsfelde
+U Friedrichstraße
+U Friedrich-Wilhelm-Platz
+U Gesundbrunnen
+U Gneisenaustraße
+U Görlitzer Bahnhof
+U Grenzallee
+U Güntzelstraße
+U Halemweg
+U Hansaplatz
+U Haselhorst
+U Ber
+U Hausvogteiplatz
+U Heidelberger Platz
+U Heinrich-Heine-Straße
+U Hellersdorf
+U Hermannstraße
+U Hönow
+U Hohenzollernplatz
+U Holzhauser Straße
+U I
+U Jakob-Kaiser-Platz
+U Jannowitzbrücke
+U Johannisthaler Chaussee
+U Jungfernheide
+U Kaiserdamm
+U Kaiserin-Augusta-Straße
+U Karl-Bonhoeffer-Nervenklinik
+U Karl-Marx-Straße
+U Kaulsdorf-Nord
+U Kleistpark
+U Klosterstraße
+U Kochstraße
+U Konstanzer Straße
+U Krumme Lanke
+U Kurfürstenstraße
+U Kurt-Schumacher-Platz
+U Leinestraße
+U Lichtenberg
+U Lindauer Allee
+U Lipschitzallee
+U Louis-Lewin-Straße
+U Magdalenenstraße
+U Märkisches Museum
+U Mendelssohn-Bartholdy-Park
+U Mierendorffplatz
+U Mohrenstraße
+U Moritzplatz
+U Naturkundemuseum
+U Nauener Platz
+U Neu-Westend
+U Neue Grottkauer Straße
+U Neukölln
+U Olympia-Stadion
+U Onkel Toms Hütte
+U Oranienburger Tor
+U Oskar-Helene-Heim
+U Otisstraße
+U Pankow
+U Pankstraße
+U Paracelsus-Bad
+U Paradestraße
+U Parchimer Allee
+U Paulsternstraße
+U Platz der Luftbrücke
+U Podbielskiallee
+U Potsdamer Platz
+U Prinzenstraße
+U Rathaus Neukölln
+U Rathaus Reinickendorf
+U Rathaus Schöneberg
+U Rathaus Spandau
+U Rathaus Steglitz
+U Rehberge
+U Reinickendorfer Straße
+U Residenzstraße
+U Richard-Wagner-Platz
+U Rohrdamm
+U Rosa-Luxemburg-Platz
+U Rosenthaler Platz
+U Rüdesheimer Platz
+U Rudow
+U Ruhleben
+U Samariterstraße
+U Scharnweberstraße
+U Schillingstraße
+U Schlesisches Tor
+U Schloßstraße
+U Schönhauser Allee
+U Schönleinstraße
+U Schwartzkopffstraße
+U Seestraße
+U Senefelderplatz
+U Siemensdamm
+U Sophie-Charlotte-Platz
+U Spittelmarkt
+U Strausberger Platz
+U Südstern
+U Tempelhof
+U Theodor-Heuss-Platz
+U Thielplatz
+U Tierpark
+U Turmstraße
+U Uhlandstraße
+U Ullsteinstraße
+U Viktoria-Luise-Platz
+U Vinetastraße
+U Voltastraße
+U Walther-Schreiber-Platz
+U Warschauer Straße
+U Weberwiese
+U Wedding
+U Weinmeisterstraße
+U Westhafen
+U Westphalweg
+U Wilmersdorfer Straße
+U Wittenau
+U Wuhletal
+U Wutzkyallee
+U Yorckstraße
+U Zitadelle
+U Zwickauer Damm
+S Adlershof
+S Ahrensfelde
+S Albrechtshof
+S Alexanderplatz
+S Altglienicke
+S Alt-Reinickendorf
+S Anhalter Bahnhof
+S Attilastraße
+S Baumschulenweg
+S Bellevue
+S Bergfelde
+S Bernau bei Berlin
+S Bernau-Friedenstal
+S Beusselstraße
+S Biesdorf
+S Birkenstein
+S Birkenwerder
+S Blankenburg
+S Blankenfelde (Kr. Teltow-Fläming)
+S Borgsdorf
+S Bornholmer Straße
+S Botanischer Garten
+S Brandenburger Tor
+S Buch
+S Buckower Chaussee
+S Bundesplatz
+S Charlottenburg
+S Dahlewitz
+S Eichborndamm
+S Eichwalde
+S Erkner
+S Falkensee
+S Feuerbachstraße
+S Flughafen Schönefeld
+S Frankfurter Allee
+S Fredersdorf
+S Friedenau
+S Friedrichsfelde Ost
+S Friedrichshagen
+S Friedrichstraße
+S Frohnau
+S Gehrenseestraße
+S Gesundbrunnen
+S Greifswalder Straße
+S Grünau
+S Grünbergallee
+S Grunewald
+S Hackescher Markt
+S Halensee
+S Berlin Hauptbahnhof
+S Heerstraße
+S Heidelberger Platz
+S Heiligensee
+S Hennigsdorf
+S Hermannstraße
+S Hermsdorf
+S Hirschgarten
+S Hohen Neuendorf
+S Hohenschönhausen
+S Hohenzollerndamm
+S Hoppegarten (Mark)
+S Humboldthain
+S Innsbrucker Platz
+S Jannowitzbrücke
+S Julius-Leber-Brücke
+S Jungfernheide
+S Karl-Bonhoeffer-Nervenklinik
+S Karlshorst
+S Karow
+S Kaulsdorf
+S Köllnische Heide
+S Königs Wusterhausen
+S Köpenick
+S Landsberger Allee
+S Lankwitz
+S Lehnitz
+S Lichtenberg
+S Lichtenrade
+S Lichterfelde Ost
+S Lichterfelde Süd
+S Lichterfelde West
+S Mahlow
+S Mahlsdorf
+S Marienfelde
+S Marzahn
+S Mehrower Allee
+S Messe Nord/ICC
+S Messe Süd
+S Mexikoplatz
+S Mühlenbeck-Mönchmühle
+S Neuenhagen
+S Neukölln
+S Nikolassee
+S Nöldnerplatz
+S Nordbahnhof
+S Oberspree
+S Olympiastadion
+S Oranienburg
+S Oranienburger Straße
+S Osdorfer Straße
+S Ostbahnhof
+S Ostkreuz
+S Pankow
+S Pankow-Heinersdorf
+S Petershagen Nord
+S Pichelsberg
+S Plänterwald
+S Poelchaustraße
+S Potsdam-Babelsberg
+S Potsdamer Bahnhof
+S Potsdam Griebnitzsee
+S Potsdam Hauptbahnhof
+S Potsdamer Platz
+S Prenzlauer Allee
+S Priesterweg
+S Rahnsdorf
+S Rangsdorf
+S Raoul-Wallenberg-Straße
+S Rathaus Steglitz
+S Röntgental
+S Rummelsburg
+S Betriebsbahnhof Rummelsburg
+S Savignyplatz
+S Schichauweg
+S Schlachtensee
+S Schöneberg
+S Schöneweide
+S Betriebsbahnhof Schöneweide
+S Schönfließ
+S Schönhauser Allee
+S Schönholz
+S Schulzendorf
+S Siemensstadt-Fürstenbrunn
+S Sonnenallee
+S Spandau
+S Spindlersfeld
+S Springpfuhl
+S Staaken
+S Storkower Straße
+S Strausberg
+S Strausberg Hegermühle
+S Strausberg Nord
+S Strausberg Stadt
+S Stresow
+S Südende
+S Südkreuz
+S Sundgauer Straße
+S Tegel
+S Teltow
+S Teltow Stadt
+S Tempelhof
+S Tiergarten
+S Treptower Park
+S Waidmannslust
+S Wannsee
+S Warschauer Straße
+S Wartenberg
+S Wedding
+S Westend
+S Westhafen
+S Westkreuz
+S Wildau
+S Wilhelmshagen
+S Wilhelmsruh
+S Wittenau
+S Wollankstraße
+S Wuhletal
+S Wuhlheide
+S Yorckstraße
+S Zehlendorf
+S Zepernick
+S Zeuthen
+S Zoologischer Garten
